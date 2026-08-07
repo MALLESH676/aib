@@ -1,0 +1,29 @@
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.venv/
+env/
+venv/
+.env
+**/trustshield.db
+**/trustshield.db-journal
+
+# Node / Frontend
+**/node_modules/
+**/dist/
+**/dist-ssr/
+*.local
+.eslintcache
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.agents/
+.system_generated/
+.user_uploaded/
+walkthrough.md
+*.log
